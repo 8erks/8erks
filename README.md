@@ -7,3 +7,4 @@ I'm here to snoop around.
 * JS
 * Laravel
 * SQL
+* LUA
